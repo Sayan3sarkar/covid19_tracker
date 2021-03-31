@@ -1,0 +1,26 @@
+.table {
+    margin-top: 20px;
+    overflow-y: scroll;
+    height: 400px;
+    color: #6a5d5d;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.table::-webkit-scrollbar {
+    display: none;
+}
+
+.table tr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table td{
+    padding: 0.5rem;
+}
+
+.table tr:nth-of-type(odd){
+    background-color: #f3f2f8;
+}
