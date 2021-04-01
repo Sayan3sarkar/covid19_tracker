@@ -5,6 +5,10 @@ A Covid 19 tracker created with [Create React App](https://github.com/facebook/c
 ## API
 All data has been pulled from [Disease.sh](https://disease.sh/docs/)
 
+## Deployment
+The app is deplyed [here](https://covid19-tracker-86d5b.web.app/) with the help of [Firebase](https://console.firebase.google.com)
+<hr>
+
 ## Home Page with active cases
 ![Home Page](IMAGES/Covid.png)
 <hr>
@@ -28,6 +32,3 @@ All data has been pulled from [Disease.sh](https://disease.sh/docs/)
 6. Map is **zoomable** on scroll
 7. Map has **circles** depiciting areas inflicted with covid. It also shows recovered and deceased case details.
 8. Clicking on each circle displays a **popup with country flag, country name, active cases, recovered cases and deceased cases details**
-
-## Deployment
-The app is deplyed [here](https://covid19-tracker-86d5b.web.app/) with the help of [Firebase](https://console.firebase.google.com)
