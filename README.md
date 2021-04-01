@@ -7,7 +7,6 @@ All data has been pulled from [Disease.sh](https://disease.sh/docs/)
 
 ## Deployment
 The app is deplyed [here](https://covid19-tracker-86d5b.web.app/) with the help of [Firebase](https://console.firebase.google.com)
-<hr>
 
 ## Home Page with active cases
 ![Home Page](IMAGES/Covid.png)
